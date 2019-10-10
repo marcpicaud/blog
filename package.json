@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Marc Picaud's technical blog",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Marc Picaud <picaud.marc@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/marcpicaud/blog/issues"
   },
   "dependencies": {
     "gatsby": "^2.15.34",
