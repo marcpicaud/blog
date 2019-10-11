@@ -20,9 +20,9 @@ class Layout extends React.Component {
         >
           <Link
             style={{
+              color: "var(--textTitle)",
               boxShadow: `none`,
               textDecoration: `none`,
-              color: `inherit`,
             }}
             to={`/`}
           >
@@ -54,6 +54,7 @@ class Layout extends React.Component {
     return (
       <div
         style={{
+          color: "var(--textNormal)",
           marginLeft: `auto`,
           marginRight: `auto`,
           maxWidth: rhythm(24),
