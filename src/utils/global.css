@@ -76,6 +76,11 @@ body:lang(ko) article {
   word-break: keep-all;
 }
 
+/* Gatsby Images */
+.gatsby-resp-image-figcaption {
+  text-align: center;
+}
+
 /**
  * Based on copypasta from Remy Bach and Sarah Drasner
  */

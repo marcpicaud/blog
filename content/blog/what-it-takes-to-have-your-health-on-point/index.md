@@ -1,19 +1,21 @@
 ---
 title: What it takes to have your health on point
 date: "2017-06-07T16:42:40.556Z"
-description: "What I learned from my journey of building sane habits (and quitting toxic ones)"
+description: "What I learned from my journey of quitting toxic habits."
+featuredImage: ./health.jpg
 ---
 
-**tl;dr**
-Your health is your most precious — and fragile — asset.
+I was very lucky to grow up in a family where nobody was having any serious health concerns. It has never been a subject that we used to talk about. Also, my parents had me late in their life, and I did not have the opportunity to met my grandparents.
 
-I was very lucky to grow up in a family where nobody was having any serious health concerns. It has never been a subject that we used to talk about. Also, my parents had me late in their life, and I did not have the opportunity to met my grandparents. So beside Godzilla - my hamster who passed away when I was eleven 😿- I have never been really confronted to severe illness situations or death.
+So beside Godzilla - my tiny hamster who passed away when I was eleven (#RIP) - I have never been really confronted to severe illness situations or death.
 
 During adolescence, this ground was very fertile to develop an invincible, risk-taking, careless mindset about my own health. It simply didn't occured to me that I was vulnerable. And in some ways, I wasn't ! The health capital of young folks is ridiculous. Man, if I did today half the shit I did at this age, I'd probably call 911.
 
 This post is kind of a letter to my younger self, providing some sane advice to keep your health in the best shape possible. Secretly, I hope that a few readers will have a "Ha! This!" moment, and try to change small things in their own life. If so, please let me know.
 
 ## Hi, stupid !
+
+![2010 Marc](./stupid.png "2010 me during high-school")
 
 I know that when you’re young, you feel invincible. But DUH, you’re not. You’re clearly not. Sorry to break the mood, but during youth, you only have time on your side.
 
@@ -30,13 +32,15 @@ The beauty of being young is that you can be anything you want. But when your he
 - Your alcohol and drugs driven behavior will get you in trouble. Dumb mistakes at the best. Serious accidents and broken relationships at the worst.
 - And any of the thousands of sad consequences that self-destructive behaviors provoke.
 
-Just stop it, man. Being unhealthy won't get you anywhere but to disapointment in life. You may find it boring now, but you'll thank yourself later, while watching the cool kids in rehab and therapy.
+Just stop it, man. Being unhealthy won't get you anywhere but to disapointment in life. You may find it boring now, but you'll thank yourself later, while the cool kids go to rehab and therapy.
 
-Unfortunately, the healthy path is not the simple path. It has a price. It requires time and discipline. And it's never really finished, because once you're in a pretty good state, you still have to maintain it !
+Unfortunately, the healthy path is not the simple path. It has a price. It requires time and discipline. Sometimes, it requires to let go friendships. And it's never really finished, because once you're in a pretty good state, you still have to maintain it !
 
 Here are some guidelines to help you during the journey.
 
 ## Understand your mind
+
+![](./mind.png "2014 me, during CS curriculum")
 
 One of the worst legacies of my youth, is the insane tendency to be addicted to anything that make me feel good.
 
@@ -80,6 +84,8 @@ My concrete advice are:
 Don’t fall into the trap of your own fears. Stressful situations happen to everyone, especially during youth. You’re not an exception. It’s part of the journey, for everyone. Shitloads of conflicts and mistakes are coming towards you, and it’s vital for you to handle them in a sane manner. Good things will happen too! There is no shortcut to have a meaningful life, you have to listen to yourself, make your moves, get knocked out sometimes, repeat and love the process.
 
 ## Understand your body
+
+![](./2019.png "2019 Me")
 
 By “understand your body” I mean any knowledge that affects your own physical enveloppe : anatomy, nutrition, immune system, genetics, digestive system, cardiovascular system, body composition, chronic disease , to name a few… Don’t outsource the effort to know yourself. You don’t need to become a specialist but you can’t afford to ignore this horizontal knowledge. Your body is a complex machine that needs to be fueled, used and maintened right to express its potential. Nobody will do it for you. Public health campaigns are definitely not enough, if useful at all.
 
